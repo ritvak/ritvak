@@ -2,7 +2,18 @@
 
 ###
 
-<p align="left">👩‍💻 A Software Developer with 2 years of hands-on experience, driven by a passion for building impactful and scalable solutions. With a Master of Applied Computer Science from Dalhousie University, I bring a strong foundation in analytical thinking and problem-solving to the table.<br><br>🔍 What drives me?<br>I love tackling complex challenges, breaking them down into elegant solutions, and transforming ideas into reality through code. Whether it’s creating robust back-end systems, designing intuitive front-end interfaces, or optimizing workflows, I’m always up for the challenge.<br><br>🚀 What am I looking for?<br>Opportunities to collaborate on innovative, cutting-edge projects that push boundaries and make a difference. If you have a project or idea, 🌟 let’s connect and create something amazing together!</p>
+<p align="left">
+👩‍💻 Passionate Software Engineer & Tech Enthusiast – I love turning ideas into reality through code.<br>  
+💡 Problem Solver – I enjoy tackling complex challenges and optimizing solutions.<br>  
+💻 Full Stack Developer – Skilled in both frontend and backend technologies, building scalable and efficient applications.<br>  
+📚 Lifelong Learner – Constantly exploring new technologies, currently diving deep into Design Patterns to craft better software.<br>  
+🧩 DSA Enthusiast – Passionate about Data Structures & Algorithms, solving problems to sharpen my logical thinking.<br>  
+
+🚀 Actively exploring Software Development Engineering (SDE) opportunities where I can contribute, grow, and build impactful solutions.<br>  
+
+💡 Let’s connect, collaborate, and create something amazing! 🚀  
+</p>
+
 
 ###
 
