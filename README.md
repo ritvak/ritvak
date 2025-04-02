@@ -6,7 +6,7 @@
 👩‍💻 Passionate Software Engineer & Tech Enthusiast – I love turning ideas into reality through code.<br>  
 💡 Problem Solver – I enjoy tackling complex challenges and optimizing solutions.<br>  
 💻 Full Stack Developer – Skilled in both frontend and backend technologies, building scalable and efficient applications.<br>  
-📚 Lifelong Learner – Constantly exploring new technologies, currently diving deep into Design Patterns to craft better software.<br>  
+📚 Lifelong Learner – Constantly exploring new technologies, currently diving deep into Cloud Technology<br>  
 🧩 DSA Enthusiast – Passionate about Data Structures & Algorithms, solving problems to sharpen my logical thinking.<br>  
 
 🚀 Actively exploring Software Development Engineering (SDE) opportunities where I can contribute, grow, and build impactful solutions.<br>  
